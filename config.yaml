@@ -12,6 +12,6 @@ Server:
   Port: 8080
   Host: localhost
 
-# 代理配置(http|https|sock5://ip:port)，为空则不使用代理
+# 代理配置(http|https|socks5://ip:port)，为空则不使用代理
 Proxy:
   Protocol:
