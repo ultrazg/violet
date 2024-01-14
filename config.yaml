@@ -14,4 +14,4 @@ Server:
 
 # 代理配置(http|https|sock5://ip:port)，为空则不使用代理
 Proxy:
-  Protocol: http://192.168.1.100:7890
+  Protocol:
