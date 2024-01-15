@@ -83,7 +83,7 @@ Proxy:
 
 - 请求方式：`POST`
 
-- 请求地址：`/video2Text`
+- 请求地址：`/video2text`
 
 - 请求头：`application/json`
 
@@ -98,7 +98,7 @@ Proxy:
 - 示例：
 
   ```shell
-  curl --location --request POST 'localhost:8080/video2Text' \
+  curl --location --request POST 'localhost:8080/video2text' \
   --header 'Content-Type: application/json' \
   --data-raw '{
       "url":"https://v.douyin.com/iLh7fkpk/"
